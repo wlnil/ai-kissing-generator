@@ -26,7 +26,7 @@
 
 ## ¿Qué es KissMotion?
 
-**KissMotion** es un generador de videos con IA gratuito que crea videos de besos realistas a partir de 1 o 2 fotos. Más de **50,000 creadores** confían en nosotros en todo el mundo.
+**KissMotion** es el mejor **AI kiss video generator** (generador de videos de besos con IA) gratuito que crea videos de besos realistas a partir de 1 o 2 fotos. Como **AI kissing video generator** líder, más de **50,000 creadores** confían en nosotros en todo el mundo.
 
 🔗 **Pruébalo ahora**: [aikissvideo.app](https://aikissvideo.app)
 

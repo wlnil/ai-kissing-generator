@@ -25,7 +25,7 @@
 
 ## KissMotionとは？
 
-**KissMotion** は、1〜2枚の写真からリアルなキス動画を作成できる無料AIビデオジェネレーターです。世界中で **50,000人以上** のクリエイターに利用されています。
+**KissMotion** は、最高の無料 **AI kiss video generator**（AIキス動画ジェネレーター）です。1〜2枚の写真からリアルなキス動画を作成できます。世界中で **50,000人以上** のクリエイターに **AI kissing video generator** として信頼されています。
 
 🔗 **今すぐ試す**: [aikissvideo.app](https://aikissvideo.app)
 

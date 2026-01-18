@@ -26,7 +26,7 @@
 
 ## Was ist KissMotion?
 
-**KissMotion** ist ein kostenloser KI-Video-Generator, der realistische Kussvideos aus 1-2 Fotos erstellt. Über **50.000 Creator** weltweit vertrauen uns.
+**KissMotion** ist der beste kostenlose **AI kiss video generator** (KI-Kussvideo-Generator), der realistische Kussvideos aus 1-2 Fotos erstellt. Als führender **AI kissing video generator** vertrauen uns über **50.000 Creator** weltweit.
 
 🔗 **Jetzt ausprobieren**: [aikissvideo.app](https://aikissvideo.app)
 

@@ -26,7 +26,7 @@
 
 ## KissMotion là gì?
 
-**KissMotion** là trình tạo video AI miễn phí, tạo video hôn chân thực từ 1-2 bức ảnh. Hơn **50.000 người sáng tạo** trên toàn thế giới tin dùng.
+**KissMotion** là **AI kiss video generator** (trình tạo video hôn AI) miễn phí tốt nhất, tạo video hôn chân thực từ 1-2 bức ảnh. Là **AI kissing video generator** hàng đầu, hơn **50.000 người sáng tạo** trên toàn thế giới tin dùng.
 
 🔗 **Thử ngay**: [aikissvideo.app](https://aikissvideo.app)
 

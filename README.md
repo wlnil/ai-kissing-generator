@@ -37,7 +37,7 @@
 
 ## What is KissMotion?
 
-**KissMotion** is a free AI-powered video generator that creates realistic kissing videos from 1 or 2 photos. Trusted by **50,000+ creators** worldwide.
+**KissMotion** is the best free **AI kiss video generator** online that creates realistic kissing videos from 1 or 2 photos. As a leading **AI kissing video generator**, we're trusted by **50,000+ creators** worldwide to transform ordinary photos into romantic moments.
 
 🔗 **Try it now**: [aikissvideo.app](https://aikissvideo.app)
 
@@ -69,8 +69,10 @@
 
 ## How It Works
 
+Our **AI kiss video generator** makes creating romantic videos simple:
+
 <p align="center">
-  <img src="./promo-screenshot-generator.png" alt="KissMotion Generator Interface" width="800">
+  <img src="./promo-screenshot-generator.png" alt="AI Kissing Video Generator Interface" width="800">
 </p>
 
 ```
@@ -80,6 +82,8 @@ Step 2: Choose your video style
          ↓
 Step 3: Download HD video in 30 seconds
 ```
+
+The **AI kissing video generator** processes your photos with advanced deep learning to create natural, realistic kiss animations.
 
 ## Pricing
 
@@ -109,6 +113,6 @@ Step 3: Download HD video in 30 seconds
 ---
 
 <p align="center">
-  <strong>Start creating free AI kiss videos today!</strong><br>
-  <a href="https://aikissvideo.app">Try KissMotion Now →</a>
+  <strong>Start creating with the best AI kiss video generator today!</strong><br>
+  <a href="https://aikissvideo.app">Try KissMotion - Free AI Kissing Video Generator →</a>
 </p>

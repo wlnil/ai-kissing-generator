@@ -26,7 +26,7 @@
 
 ## KissMotion Nedir?
 
-**KissMotion**, 1-2 fotoğraftan gerçekçi öpüşme videoları oluşturan ücretsiz bir AI video oluşturucudur. Dünya genelinde **50.000+ içerik üreticisi** bize güveniyor.
+**KissMotion**, en iyi ücretsiz **AI kiss video generator** (AI öpüşme video oluşturucu) olup 1-2 fotoğraftan gerçekçi öpüşme videoları oluşturur. Lider **AI kissing video generator** olarak dünya genelinde **50.000+ içerik üreticisi** bize güveniyor.
 
 🔗 **Şimdi deneyin**: [aikissvideo.app](https://aikissvideo.app)
 

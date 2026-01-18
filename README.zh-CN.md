@@ -25,7 +25,7 @@
 
 ## 产品介绍
 
-**KissMotion** 是一款免费的 AI 视频生成器，能够将 1-2 张照片转换为逼真的亲吻视频。全球已有 **50,000+** 创作者使用。
+**KissMotion** 是最好的免费 **AI kiss video generator**（AI亲吻视频生成器），能够将 1-2 张照片转换为逼真的亲吻视频。作为领先的 **AI kissing video generator**，全球已有 **50,000+** 创作者信赖使用。
 
 🔗 **立即体验**: [aikissvideo.app](https://aikissvideo.app)
 
@@ -57,8 +57,10 @@
 
 ## 使用方法
 
+我们的 **AI kiss video generator** 让创建浪漫视频变得简单：
+
 <p align="center">
-  <img src="./promo-screenshot-generator.png" alt="KissMotion 生成器界面" width="800">
+  <img src="./promo-screenshot-generator.png" alt="AI Kissing Video Generator 界面" width="800">
 </p>
 
 ```
@@ -68,6 +70,8 @@
          ↓
 第三步: 30秒后下载高清视频
 ```
+
+**AI kissing video generator** 使用先进的深度学习技术处理照片，创建自然逼真的亲吻动画。
 
 ## 价格
 
@@ -97,6 +101,6 @@
 ---
 
 <p align="center">
-  <strong>立即开始创建免费AI亲吻视频！</strong><br>
-  <a href="https://aikissvideo.app">体验 KissMotion →</a>
+  <strong>立即使用最好的 AI kiss video generator 创建免费亲吻视频！</strong><br>
+  <a href="https://aikissvideo.app">体验 KissMotion - Free AI Kissing Video Generator →</a>
 </p>
